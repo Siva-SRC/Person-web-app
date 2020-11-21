@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Person-web-app/static/css/main.cc79eea0.chunk.css",
+    "main.js": "/Person-web-app/static/js/main.edbaed51.chunk.js",
+    "main.js.map": "/Person-web-app/static/js/main.edbaed51.chunk.js.map",
+    "runtime-main.js": "/Person-web-app/static/js/runtime-main.bfe98d3a.js",
+    "runtime-main.js.map": "/Person-web-app/static/js/runtime-main.bfe98d3a.js.map",
+    "static/js/2.eed0a3db.chunk.js": "/Person-web-app/static/js/2.eed0a3db.chunk.js",
+    "static/js/2.eed0a3db.chunk.js.map": "/Person-web-app/static/js/2.eed0a3db.chunk.js.map",
+    "static/js/3.97ed11c7.chunk.js": "/Person-web-app/static/js/3.97ed11c7.chunk.js",
+    "static/js/3.97ed11c7.chunk.js.map": "/Person-web-app/static/js/3.97ed11c7.chunk.js.map",
+    "index.html": "/Person-web-app/index.html",
+    "static/css/main.cc79eea0.chunk.css.map": "/Person-web-app/static/css/main.cc79eea0.chunk.css.map",
+    "static/js/2.eed0a3db.chunk.js.LICENSE.txt": "/Person-web-app/static/js/2.eed0a3db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfe98d3a.js",
+    "static/js/2.eed0a3db.chunk.js",
+    "static/css/main.cc79eea0.chunk.css",
+    "static/js/main.edbaed51.chunk.js"
+  ]
+}
